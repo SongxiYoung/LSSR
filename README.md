@@ -12,4 +12,4 @@
 
 
 ### Acknowledgement
-The code is based on \url{https://github.com/csslc/PiSA-SR/tree/main}.
+The code is based on [PiSA-SR](https://github.com/csslc/PiSA-SR/tree/main).
